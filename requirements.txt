@@ -4,3 +4,5 @@ Unidecode
 requests
 xlrd
 openpyxl
+statsmodels
+patsy
