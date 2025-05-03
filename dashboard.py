@@ -40,7 +40,7 @@ def detect_date_column(df: pd.DataFrame):
     return None
 
 # ————————————— 1. Carregar e tratar Trends —————————————
-trends = pd.read_csv("merge.csv")
+trends = pd.read_csv("https://github.com/jairoalmeid/CliquesCatastrofes/blob/main/merge.csv")
 
 year_col = detect_year_column(trends)
 date_col = detect_date_column(trends)
@@ -75,7 +75,7 @@ trends = trends.dropna(subset=["uf"])
 
 # ————————————— 2. Carregar e tratar S2ID (vários anos) —————————————
 
-des_files = glob.glob("Desastres_2024.xls*")
+des_files = glob.glob("https://github.com/jairoalmeid/CliquesCatastrofes/blob/main/Desastres_2024.xls")
 s2id_list = []
 for path in des_files:
     fname = os.path.basename(path)
