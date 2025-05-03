@@ -2,3 +2,5 @@ pandas
 plotly
 Unidecode
 requests
+xlrd
+openpyxl
