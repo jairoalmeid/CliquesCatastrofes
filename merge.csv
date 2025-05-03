@@ -1,0 +1,1351 @@
+uf,contagem,ano,categoria
+Rio Grande do Sul,100.0,2023,inundação
+Amazonas,71.0,2023,inundação
+Acre,61.0,2023,inundação
+Alagoas,26.0,2023,inundação
+Santa Catarina,21.0,2023,inundação
+Rondônia,18.0,2023,inundação
+Piauí,13.0,2023,inundação
+Amapá,12.0,2023,inundação
+Maranhão,12.0,2023,inundação
+Minas Gerais,11.0,2023,inundação
+Roraima,11.0,2023,inundação
+Tocantins,10.0,2023,inundação
+Rio Grande do Norte,10.0,2023,inundação
+Rio de Janeiro,10.0,2023,inundação
+Pará,10.0,2023,inundação
+Pernambuco,10.0,2023,inundação
+Mato Grosso do Sul,10.0,2023,inundação
+São Paulo,10.0,2023,inundação
+Sergipe,10.0,2023,inundação
+Goiás,10.0,2023,inundação
+Paraná,9.0,2023,inundação
+Paraíba,9.0,2023,inundação
+Espírito Santo,9.0,2023,inundação
+Mato Grosso,9.0,2023,inundação
+Bahia,8.0,2023,inundação
+Distrito Federal,8.0,2023,inundação
+Ceará,7.0,2023,inundação
+Santa Catarina,100.0,2022,Enchente
+Rondônia,77.0,2022,Enchente
+Alagoas,70.0,2022,Enchente
+Minas Gerais,61.0,2022,Enchente
+Amazonas,58.0,2022,Enchente
+Espírito Santo,50.0,2022,Enchente
+Rio de Janeiro,50.0,2022,Enchente
+Pernambuco,49.0,2022,Enchente
+Amapá,43.0,2022,Enchente
+Rio Grande do Sul,38.0,2022,Enchente
+Bahia,37.0,2022,Enchente
+Acre,37.0,2022,Enchente
+Mato Grosso,35.0,2022,Enchente
+Tocantins,35.0,2022,Enchente
+Goiás,34.0,2022,Enchente
+Maranhão,31.0,2022,Enchente
+São Paulo,31.0,2022,Enchente
+Pará,30.0,2022,Enchente
+Mato Grosso do Sul,28.0,2022,Enchente
+Paraná,27.0,2022,Enchente
+Sergipe,27.0,2022,Enchente
+Piauí,27.0,2022,Enchente
+Roraima,25.0,2022,Enchente
+Rio Grande do Norte,23.0,2022,Enchente
+Paraíba,22.0,2022,Enchente
+Ceará,20.0,2022,Enchente
+Distrito Federal,19.0,2022,Enchente
+Piauí,100.0,2021,Alerta risco
+Mato Grosso,90.0,2021,Alerta risco
+Santa Catarina,72.0,2021,Alerta risco
+Amazonas,72.0,2021,Alerta risco
+Pará,72.0,2021,Alerta risco
+Espírito Santo,72.0,2021,Alerta risco
+Ceará,72.0,2021,Alerta risco
+Minas Gerais,63.0,2021,Alerta risco
+Paraíba,63.0,2021,Alerta risco
+Bahia,63.0,2021,Alerta risco
+Distrito Federal,54.0,2021,Alerta risco
+Pernambuco,54.0,2021,Alerta risco
+Rio Grande do Sul,45.0,2021,Alerta risco
+São Paulo,45.0,2021,Alerta risco
+Rio de Janeiro,36.0,2021,Alerta risco
+Goiás,36.0,2021,Alerta risco
+Paraná,36.0,2021,Alerta risco
+Acre,,2021,Alerta risco
+Mato Grosso do Sul,,2021,Alerta risco
+Rio Grande do Norte,,2021,Alerta risco
+Rondônia,,2021,Alerta risco
+Roraima,,2021,Alerta risco
+Maranhão,,2021,Alerta risco
+Amapá,,2021,Alerta risco
+Sergipe,,2021,Alerta risco
+Alagoas,,2021,Alerta risco
+Tocantins,,2021,Alerta risco
+Rio Grande do Sul,100.0,2022,tempestade
+Paraná,90.0,2022,tempestade
+Santa Catarina,89.0,2022,tempestade
+Mato Grosso do Sul,68.0,2022,tempestade
+São Paulo,31.0,2022,tempestade
+Minas Gerais,26.0,2022,tempestade
+Rio de Janeiro,25.0,2022,tempestade
+Espírito Santo,21.0,2022,tempestade
+Rondônia,20.0,2022,tempestade
+Acre,20.0,2022,tempestade
+Mato Grosso,19.0,2022,tempestade
+Amapá,18.0,2022,tempestade
+Goiás,18.0,2022,tempestade
+Pernambuco,17.0,2022,tempestade
+Bahia,17.0,2022,tempestade
+Rio Grande do Norte,17.0,2022,tempestade
+Alagoas,16.0,2022,tempestade
+Sergipe,16.0,2022,tempestade
+Pará,16.0,2022,tempestade
+Ceará,15.0,2022,tempestade
+Amazonas,15.0,2022,tempestade
+Tocantins,15.0,2022,tempestade
+Piauí,15.0,2022,tempestade
+Paraíba,15.0,2022,tempestade
+Roraima,15.0,2022,tempestade
+Maranhão,15.0,2022,tempestade
+Distrito Federal,14.0,2022,tempestade
+Santa Catarina,100.0,2023,tempestade
+Rio Grande do Sul,98.0,2023,tempestade
+Paraná,89.0,2023,tempestade
+Mato Grosso do Sul,50.0,2023,tempestade
+São Paulo,31.0,2023,tempestade
+Rio de Janeiro,30.0,2023,tempestade
+Minas Gerais,29.0,2023,tempestade
+Espírito Santo,24.0,2023,tempestade
+Goiás,17.0,2023,tempestade
+Bahia,17.0,2023,tempestade
+Acre,16.0,2023,tempestade
+Pernambuco,16.0,2023,tempestade
+Ceará,15.0,2023,tempestade
+Rondônia,15.0,2023,tempestade
+Alagoas,14.0,2023,tempestade
+Rio Grande do Norte,14.0,2023,tempestade
+Tocantins,14.0,2023,tempestade
+Paraíba,14.0,2023,tempestade
+Pará,14.0,2023,tempestade
+Amapá,14.0,2023,tempestade
+Sergipe,13.0,2023,tempestade
+Mato Grosso,13.0,2023,tempestade
+Amazonas,13.0,2023,tempestade
+Piauí,13.0,2023,tempestade
+Roraima,13.0,2023,tempestade
+Distrito Federal,13.0,2023,tempestade
+Maranhão,11.0,2023,tempestade
+Rio Grande do Sul,100.0,2024,enchente
+Santa Catarina,31.0,2024,enchente
+Acre,18.0,2024,enchente
+Rondônia,14.0,2024,enchente
+Paraná,14.0,2024,enchente
+Espírito Santo,12.0,2024,enchente
+Rio de Janeiro,11.0,2024,enchente
+Mato Grosso,11.0,2024,enchente
+Minas Gerais,11.0,2024,enchente
+Mato Grosso do Sul,10.0,2024,enchente
+São Paulo,10.0,2024,enchente
+Tocantins,10.0,2024,enchente
+Goiás,10.0,2024,enchente
+Distrito Federal,9.0,2024,enchente
+Alagoas,8.0,2024,enchente
+Amazonas,8.0,2024,enchente
+Roraima,8.0,2024,enchente
+Amapá,8.0,2024,enchente
+Sergipe,8.0,2024,enchente
+Bahia,8.0,2024,enchente
+Pará,7.0,2024,enchente
+Maranhão,7.0,2024,enchente
+Pernambuco,7.0,2024,enchente
+Paraíba,7.0,2024,enchente
+Rio Grande do Norte,7.0,2024,enchente
+Piauí,7.0,2024,enchente
+Ceará,6.0,2024,enchente
+Minas Gerais,100.0,2022,Granizo
+Rio de Janeiro,84.0,2022,Granizo
+Santa Catarina,80.0,2022,Granizo
+Paraná,57.0,2022,Granizo
+Rio Grande do Sul,56.0,2022,Granizo
+Espírito Santo,56.0,2022,Granizo
+Distrito Federal,48.0,2022,Granizo
+Mato Grosso do Sul,47.0,2022,Granizo
+Maranhão,44.0,2022,Granizo
+Bahia,43.0,2022,Granizo
+São Paulo,42.0,2022,Granizo
+Pernambuco,38.0,2022,Granizo
+Paraíba,37.0,2022,Granizo
+Ceará,35.0,2022,Granizo
+Tocantins,34.0,2022,Granizo
+Roraima,34.0,2022,Granizo
+Goiás,33.0,2022,Granizo
+Rio Grande do Norte,33.0,2022,Granizo
+Rondônia,33.0,2022,Granizo
+Piauí,33.0,2022,Granizo
+Pará,32.0,2022,Granizo
+Acre,32.0,2022,Granizo
+Alagoas,31.0,2022,Granizo
+Mato Grosso,31.0,2022,Granizo
+Sergipe,30.0,2022,Granizo
+Amapá,29.0,2022,Granizo
+Amazonas,29.0,2022,Granizo
+Santa Catarina,100.0,2023,enchente
+Rio Grande do Sul,87.0,2023,enchente
+Acre,51.0,2023,enchente
+Rondônia,26.0,2023,enchente
+Paraná,24.0,2023,enchente
+São Paulo,19.0,2023,enchente
+Minas Gerais,19.0,2023,enchente
+Espírito Santo,18.0,2023,enchente
+Mato Grosso,17.0,2023,enchente
+Alagoas,17.0,2023,enchente
+Rio de Janeiro,16.0,2023,enchente
+Goiás,16.0,2023,enchente
+Mato Grosso do Sul,15.0,2023,enchente
+Maranhão,13.0,2023,enchente
+Tocantins,12.0,2023,enchente
+Amazonas,12.0,2023,enchente
+Roraima,12.0,2023,enchente
+Pernambuco,12.0,2023,enchente
+Pará,12.0,2023,enchente
+Amapá,11.0,2023,enchente
+Bahia,10.0,2023,enchente
+Sergipe,10.0,2023,enchente
+Ceará,10.0,2023,enchente
+Distrito Federal,10.0,2023,enchente
+Piauí,10.0,2023,enchente
+Rio Grande do Norte,9.0,2023,enchente
+Paraíba,9.0,2023,enchente
+Rio Grande do Sul,100.0,2024,desabrigados
+Acre,32.0,2024,desabrigados
+Santa Catarina,22.0,2024,desabrigados
+Maranhão,16.0,2024,desabrigados
+Distrito Federal,15.0,2024,desabrigados
+Espírito Santo,14.0,2024,desabrigados
+Piauí,12.0,2024,desabrigados
+Paraná,12.0,2024,desabrigados
+Amazonas,11.0,2024,desabrigados
+Rio de Janeiro,11.0,2024,desabrigados
+Sergipe,11.0,2024,desabrigados
+Mato Grosso,10.0,2024,desabrigados
+Rio Grande do Norte,10.0,2024,desabrigados
+Alagoas,10.0,2024,desabrigados
+São Paulo,9.0,2024,desabrigados
+Pernambuco,9.0,2024,desabrigados
+Bahia,9.0,2024,desabrigados
+Minas Gerais,9.0,2024,desabrigados
+Ceará,9.0,2024,desabrigados
+Pará,8.0,2024,desabrigados
+Mato Grosso do Sul,7.0,2024,desabrigados
+Paraíba,7.0,2024,desabrigados
+Goiás,7.0,2024,desabrigados
+Rondônia,,2024,desabrigados
+Roraima,,2024,desabrigados
+Amapá,,2024,desabrigados
+Tocantins,,2024,desabrigados
+Piauí,100.0,2021,Estiagem
+Rondônia,90.0,2021,Estiagem
+Tocantins,81.0,2021,Estiagem
+Acre,80.0,2021,Estiagem
+Paraná,70.0,2021,Estiagem
+Mato Grosso,67.0,2021,Estiagem
+Rio Grande do Sul,63.0,2021,Estiagem
+Santa Catarina,63.0,2021,Estiagem
+Pernambuco,61.0,2021,Estiagem
+Maranhão,60.0,2021,Estiagem
+Ceará,58.0,2021,Estiagem
+Rio Grande do Norte,58.0,2021,Estiagem
+Pará,56.0,2021,Estiagem
+Distrito Federal,56.0,2021,Estiagem
+Bahia,54.0,2021,Estiagem
+Paraíba,52.0,2021,Estiagem
+Goiás,50.0,2021,Estiagem
+Mato Grosso do Sul,45.0,2021,Estiagem
+Minas Gerais,38.0,2021,Estiagem
+Amazonas,38.0,2021,Estiagem
+São Paulo,38.0,2021,Estiagem
+Espírito Santo,36.0,2021,Estiagem
+Alagoas,36.0,2021,Estiagem
+Sergipe,34.0,2021,Estiagem
+Rio de Janeiro,30.0,2021,Estiagem
+Amapá,,2021,Estiagem
+Roraima,,2021,Estiagem
+Rio Grande do Sul,100.0,2024,tempestade
+Santa Catarina,76.0,2024,tempestade
+Paraná,66.0,2024,tempestade
+Mato Grosso do Sul,40.0,2024,tempestade
+São Paulo,29.0,2024,tempestade
+Rio de Janeiro,27.0,2024,tempestade
+Minas Gerais,26.0,2024,tempestade
+Espírito Santo,22.0,2024,tempestade
+Goiás,18.0,2024,tempestade
+Rondônia,17.0,2024,tempestade
+Mato Grosso,17.0,2024,tempestade
+Pernambuco,16.0,2024,tempestade
+Amapá,16.0,2024,tempestade
+Bahia,15.0,2024,tempestade
+Alagoas,14.0,2024,tempestade
+Ceará,14.0,2024,tempestade
+Acre,14.0,2024,tempestade
+Rio Grande do Norte,14.0,2024,tempestade
+Paraíba,14.0,2024,tempestade
+Sergipe,13.0,2024,tempestade
+Tocantins,13.0,2024,tempestade
+Piauí,13.0,2024,tempestade
+Pará,12.0,2024,tempestade
+Roraima,12.0,2024,tempestade
+Amazonas,12.0,2024,tempestade
+Maranhão,12.0,2024,tempestade
+Distrito Federal,11.0,2024,tempestade
+São Paulo,,2021,Emergência Climática
+Acre,,2021,Emergência Climática
+Tocantins,,2021,Emergência Climática
+Amapá,,2021,Emergência Climática
+Bahia,,2021,Emergência Climática
+Ceará,,2021,Emergência Climática
+Distrito Federal,,2021,Emergência Climática
+Espírito Santo,,2021,Emergência Climática
+Goiás,,2021,Emergência Climática
+Maranhão,,2021,Emergência Climática
+Minas Gerais,,2021,Emergência Climática
+Mato Grosso do Sul,,2021,Emergência Climática
+Mato Grosso,,2021,Emergência Climática
+Pará,,2021,Emergência Climática
+Paraíba,,2021,Emergência Climática
+Pernambuco,,2021,Emergência Climática
+Piauí,,2021,Emergência Climática
+Paraná,,2021,Emergência Climática
+Rio de Janeiro,,2021,Emergência Climática
+Rio Grande do Norte,,2021,Emergência Climática
+Rondônia,,2021,Emergência Climática
+Roraima,,2021,Emergência Climática
+Rio Grande do Sul,,2021,Emergência Climática
+Santa Catarina,,2021,Emergência Climática
+Sergipe,,2021,Emergência Climática
+Alagoas,,2021,Emergência Climática
+Amazonas,,2021,Emergência Climática
+Acre,100.0,2024,inundação
+Rio Grande do Sul,33.0,2024,inundação
+Maranhão,14.0,2024,inundação
+Piauí,9.0,2024,inundação
+Alagoas,7.0,2024,inundação
+Santa Catarina,6.0,2024,inundação
+Roraima,6.0,2024,inundação
+Espírito Santo,4.0,2024,inundação
+Paraná,4.0,2024,inundação
+Minas Gerais,4.0,2024,inundação
+Rondônia,3.0,2024,inundação
+Distrito Federal,3.0,2024,inundação
+Rio de Janeiro,3.0,2024,inundação
+Pará,3.0,2024,inundação
+Mato Grosso do Sul,3.0,2024,inundação
+Amazonas,3.0,2024,inundação
+Rio Grande do Norte,3.0,2024,inundação
+Sergipe,3.0,2024,inundação
+São Paulo,2.0,2024,inundação
+Mato Grosso,2.0,2024,inundação
+Goiás,2.0,2024,inundação
+Amapá,2.0,2024,inundação
+Paraíba,2.0,2024,inundação
+Pernambuco,2.0,2024,inundação
+Bahia,2.0,2024,inundação
+Tocantins,2.0,2024,inundação
+Ceará,2.0,2024,inundação
+Amazonas,100.0,2023,Deslizamento
+Santa Catarina,70.0,2023,Deslizamento
+Amapá,59.0,2023,Deslizamento
+Paraná,59.0,2023,Deslizamento
+Rio de Janeiro,52.0,2023,Deslizamento
+São Paulo,51.0,2023,Deslizamento
+Rio Grande do Sul,49.0,2023,Deslizamento
+Acre,48.0,2023,Deslizamento
+Sergipe,46.0,2023,Deslizamento
+Pará,46.0,2023,Deslizamento
+Minas Gerais,44.0,2023,Deslizamento
+Maranhão,43.0,2023,Deslizamento
+Piauí,43.0,2023,Deslizamento
+Rio Grande do Norte,43.0,2023,Deslizamento
+Mato Grosso,42.0,2023,Deslizamento
+Espírito Santo,40.0,2023,Deslizamento
+Pernambuco,39.0,2023,Deslizamento
+Paraíba,38.0,2023,Deslizamento
+Tocantins,38.0,2023,Deslizamento
+Bahia,37.0,2023,Deslizamento
+Distrito Federal,37.0,2023,Deslizamento
+Ceará,37.0,2023,Deslizamento
+Alagoas,37.0,2023,Deslizamento
+Rondônia,35.0,2023,Deslizamento
+Mato Grosso do Sul,34.0,2023,Deslizamento
+Goiás,34.0,2023,Deslizamento
+Roraima,33.0,2023,Deslizamento
+Minas Gerais,100.0,2023,Tragédia
+Maranhão,99.0,2023,Tragédia
+Piauí,97.0,2023,Tragédia
+Tocantins,95.0,2023,Tragédia
+Amazonas,93.0,2023,Tragédia
+Paraíba,89.0,2023,Tragédia
+Rondônia,88.0,2023,Tragédia
+Mato Grosso,88.0,2023,Tragédia
+Pará,86.0,2023,Tragédia
+Acre,82.0,2023,Tragédia
+Amapá,82.0,2023,Tragédia
+Santa Catarina,81.0,2023,Tragédia
+Paraná,80.0,2023,Tragédia
+Espírito Santo,79.0,2023,Tragédia
+São Paulo,79.0,2023,Tragédia
+Rio de Janeiro,79.0,2023,Tragédia
+Roraima,78.0,2023,Tragédia
+Rio Grande do Norte,78.0,2023,Tragédia
+Rio Grande do Sul,76.0,2023,Tragédia
+Mato Grosso do Sul,76.0,2023,Tragédia
+Sergipe,75.0,2023,Tragédia
+Alagoas,73.0,2023,Tragédia
+Goiás,71.0,2023,Tragédia
+Bahia,70.0,2023,Tragédia
+Pernambuco,70.0,2023,Tragédia
+Ceará,69.0,2023,Tragédia
+Distrito Federal,66.0,2023,Tragédia
+Pará,100.0,2024,mudança climática
+Acre,87.0,2024,mudança climática
+Tocantins,83.0,2024,mudança climática
+Amapá,79.0,2024,mudança climática
+Maranhão,79.0,2024,mudança climática
+Sergipe,69.0,2024,mudança climática
+Piauí,67.0,2024,mudança climática
+Amazonas,65.0,2024,mudança climática
+Bahia,63.0,2024,mudança climática
+Distrito Federal,57.0,2024,mudança climática
+Alagoas,55.0,2024,mudança climática
+Rondônia,53.0,2024,mudança climática
+Pernambuco,46.0,2024,mudança climática
+Rio Grande do Norte,46.0,2024,mudança climática
+Mato Grosso do Sul,46.0,2024,mudança climática
+Paraíba,44.0,2024,mudança climática
+Minas Gerais,44.0,2024,mudança climática
+São Paulo,44.0,2024,mudança climática
+Mato Grosso,40.0,2024,mudança climática
+Rio de Janeiro,40.0,2024,mudança climática
+Ceará,38.0,2024,mudança climática
+Goiás,38.0,2024,mudança climática
+Espírito Santo,36.0,2024,mudança climática
+Rio Grande do Sul,36.0,2024,mudança climática
+Santa Catarina,34.0,2024,mudança climática
+Paraná,28.0,2024,mudança climática
+Roraima,,2024,mudança climática
+Acre,100.0,2023,Mudanças climáticas
+Roraima,88.0,2023,Mudanças climáticas
+Amazonas,88.0,2023,Mudanças climáticas
+Bahia,84.0,2023,Mudanças climáticas
+Pará,83.0,2023,Mudanças climáticas
+Piauí,82.0,2023,Mudanças climáticas
+Maranhão,82.0,2023,Mudanças climáticas
+Sergipe,81.0,2023,Mudanças climáticas
+Tocantins,79.0,2023,Mudanças climáticas
+Amapá,78.0,2023,Mudanças climáticas
+Alagoas,78.0,2023,Mudanças climáticas
+Rio Grande do Norte,77.0,2023,Mudanças climáticas
+Paraíba,76.0,2023,Mudanças climáticas
+Mato Grosso,76.0,2023,Mudanças climáticas
+Pernambuco,73.0,2023,Mudanças climáticas
+São Paulo,73.0,2023,Mudanças climáticas
+Rondônia,73.0,2023,Mudanças climáticas
+Ceará,71.0,2023,Mudanças climáticas
+Minas Gerais,67.0,2023,Mudanças climáticas
+Distrito Federal,65.0,2023,Mudanças climáticas
+Espírito Santo,64.0,2023,Mudanças climáticas
+Mato Grosso do Sul,62.0,2023,Mudanças climáticas
+Rio de Janeiro,62.0,2023,Mudanças climáticas
+Goiás,61.0,2023,Mudanças climáticas
+Rio Grande do Sul,55.0,2023,Mudanças climáticas
+Paraná,51.0,2023,Mudanças climáticas
+Santa Catarina,49.0,2023,Mudanças climáticas
+Bahia,100.0,2021,Desabrigados
+Pará,55.0,2021,Desabrigados
+Espírito Santo,50.0,2021,Desabrigados
+Ceará,50.0,2021,Desabrigados
+Maranhão,50.0,2021,Desabrigados
+Minas Gerais,35.0,2021,Desabrigados
+Distrito Federal,35.0,2021,Desabrigados
+Paraíba,35.0,2021,Desabrigados
+Rio Grande do Norte,35.0,2021,Desabrigados
+Rio de Janeiro,35.0,2021,Desabrigados
+São Paulo,25.0,2021,Desabrigados
+Pernambuco,25.0,2021,Desabrigados
+Santa Catarina,25.0,2021,Desabrigados
+Rio Grande do Sul,20.0,2021,Desabrigados
+Paraná,20.0,2021,Desabrigados
+Goiás,15.0,2021,Desabrigados
+Acre,,2021,Desabrigados
+Piauí,,2021,Desabrigados
+Mato Grosso,,2021,Desabrigados
+Mato Grosso do Sul,,2021,Desabrigados
+Rondônia,,2021,Desabrigados
+Roraima,,2021,Desabrigados
+Amapá,,2021,Desabrigados
+Amazonas,,2021,Desabrigados
+Sergipe,,2021,Desabrigados
+Alagoas,,2021,Desabrigados
+Tocantins,,2021,Desabrigados
+Santa Catarina,100.0,2021,Granizo
+Espírito Santo,100.0,2021,Granizo
+Paraná,92.0,2021,Granizo
+Pará,86.0,2021,Granizo
+Minas Gerais,79.0,2021,Granizo
+Mato Grosso do Sul,67.0,2021,Granizo
+Amapá,62.0,2021,Granizo
+Tocantins,61.0,2021,Granizo
+Rio Grande do Sul,60.0,2021,Granizo
+Rondônia,58.0,2021,Granizo
+São Paulo,57.0,2021,Granizo
+Roraima,56.0,2021,Granizo
+Rio de Janeiro,50.0,2021,Granizo
+Piauí,49.0,2021,Granizo
+Mato Grosso,47.0,2021,Granizo
+Goiás,46.0,2021,Granizo
+Sergipe,45.0,2021,Granizo
+Maranhão,45.0,2021,Granizo
+Acre,44.0,2021,Granizo
+Bahia,43.0,2021,Granizo
+Distrito Federal,41.0,2021,Granizo
+Paraíba,33.0,2021,Granizo
+Rio Grande do Norte,31.0,2021,Granizo
+Ceará,30.0,2021,Granizo
+Alagoas,30.0,2021,Granizo
+Pernambuco,28.0,2021,Granizo
+Amazonas,26.0,2021,Granizo
+Acre,100.0,2021,Mudanças Climáticas
+Tocantins,95.0,2021,Mudanças Climáticas
+Piauí,71.0,2021,Mudanças Climáticas
+Pará,63.0,2021,Mudanças Climáticas
+Bahia,60.0,2021,Mudanças Climáticas
+Maranhão,57.0,2021,Mudanças Climáticas
+Roraima,55.0,2021,Mudanças Climáticas
+Amapá,53.0,2021,Mudanças Climáticas
+Rondônia,53.0,2021,Mudanças Climáticas
+Paraíba,48.0,2021,Mudanças Climáticas
+Alagoas,48.0,2021,Mudanças Climáticas
+Rio Grande do Norte,48.0,2021,Mudanças Climáticas
+Ceará,48.0,2021,Mudanças Climáticas
+Amazonas,48.0,2021,Mudanças Climáticas
+Sergipe,47.0,2021,Mudanças Climáticas
+Pernambuco,44.0,2021,Mudanças Climáticas
+Mato Grosso,41.0,2021,Mudanças Climáticas
+Mato Grosso do Sul,41.0,2021,Mudanças Climáticas
+Espírito Santo,39.0,2021,Mudanças Climáticas
+Goiás,37.0,2021,Mudanças Climáticas
+Distrito Federal,34.0,2021,Mudanças Climáticas
+São Paulo,29.0,2021,Mudanças Climáticas
+Minas Gerais,29.0,2021,Mudanças Climáticas
+Rio de Janeiro,28.0,2021,Mudanças Climáticas
+Rio Grande do Sul,23.0,2021,Mudanças Climáticas
+Paraná,21.0,2021,Mudanças Climáticas
+Santa Catarina,19.0,2021,Mudanças Climáticas
+Distrito Federal,100.0,2024,emergência climática
+Pará,75.0,2024,emergência climática
+Minas Gerais,75.0,2024,emergência climática
+Rio Grande do Sul,75.0,2024,emergência climática
+Paraná,75.0,2024,emergência climática
+Maranhão,62.0,2024,emergência climática
+Bahia,50.0,2024,emergência climática
+Pernambuco,50.0,2024,emergência climática
+Ceará,37.0,2024,emergência climática
+Rio de Janeiro,25.0,2024,emergência climática
+São Paulo,25.0,2024,emergência climática
+Acre,,2024,emergência climática
+Mato Grosso,,2024,emergência climática
+Mato Grosso do Sul,,2024,emergência climática
+Paraíba,,2024,emergência climática
+Goiás,,2024,emergência climática
+Piauí,,2024,emergência climática
+Espírito Santo,,2024,emergência climática
+Amapá,,2024,emergência climática
+Rio Grande do Norte,,2024,emergência climática
+Rondônia,,2024,emergência climática
+Roraima,,2024,emergência climática
+Amazonas,,2024,emergência climática
+Santa Catarina,,2024,emergência climática
+Sergipe,,2024,emergência climática
+Alagoas,,2024,emergência climática
+Tocantins,,2024,emergência climática
+Amapá,100.0,2022,Inundação
+Santa Catarina,86.0,2022,Inundação
+Amazonas,67.0,2022,Inundação
+Minas Gerais,67.0,2022,Inundação
+Roraima,67.0,2022,Inundação
+Goiás,65.0,2022,Inundação
+Pará,63.0,2022,Inundação
+Espírito Santo,60.0,2022,Inundação
+Rio Grande do Sul,59.0,2022,Inundação
+Paraíba,59.0,2022,Inundação
+Acre,59.0,2022,Inundação
+Alagoas,57.0,2022,Inundação
+Pernambuco,56.0,2022,Inundação
+Sergipe,56.0,2022,Inundação
+Mato Grosso do Sul,55.0,2022,Inundação
+Maranhão,54.0,2022,Inundação
+Rio de Janeiro,54.0,2022,Inundação
+Distrito Federal,53.0,2022,Inundação
+Paraná,53.0,2022,Inundação
+Rondônia,53.0,2022,Inundação
+Piauí,52.0,2022,Inundação
+Bahia,52.0,2022,Inundação
+Rio Grande do Norte,51.0,2022,Inundação
+Mato Grosso,48.0,2022,Inundação
+São Paulo,46.0,2022,Inundação
+Ceará,45.0,2022,Inundação
+Tocantins,44.0,2022,Inundação
+Rio Grande do Sul,100.0,2024,granizo
+Roraima,72.0,2024,granizo
+Espírito Santo,72.0,2024,granizo
+Paraná,70.0,2024,granizo
+Minas Gerais,64.0,2024,granizo
+Santa Catarina,62.0,2024,granizo
+Rondônia,60.0,2024,granizo
+Rio de Janeiro,57.0,2024,granizo
+Rio Grande do Norte,54.0,2024,granizo
+Mato Grosso do Sul,50.0,2024,granizo
+Tocantins,50.0,2024,granizo
+Piauí,49.0,2024,granizo
+Amazonas,49.0,2024,granizo
+São Paulo,49.0,2024,granizo
+Maranhão,47.0,2024,granizo
+Acre,47.0,2024,granizo
+Sergipe,47.0,2024,granizo
+Bahia,45.0,2024,granizo
+Mato Grosso,45.0,2024,granizo
+Pará,44.0,2024,granizo
+Distrito Federal,44.0,2024,granizo
+Pernambuco,42.0,2024,granizo
+Goiás,40.0,2024,granizo
+Alagoas,39.0,2024,granizo
+Paraíba,39.0,2024,granizo
+Ceará,38.0,2024,granizo
+Amapá,36.0,2024,granizo
+Maranhão,100.0,2024,tragédia
+Paraíba,95.0,2024,tragédia
+Piauí,94.0,2024,tragédia
+Pará,94.0,2024,tragédia
+Minas Gerais,90.0,2024,tragédia
+Tocantins,90.0,2024,tragédia
+Rio de Janeiro,86.0,2024,tragédia
+Bahia,84.0,2024,tragédia
+Pernambuco,84.0,2024,tragédia
+Amazonas,84.0,2024,tragédia
+Mato Grosso,83.0,2024,tragédia
+Sergipe,83.0,2024,tragédia
+Amapá,82.0,2024,tragédia
+Espírito Santo,81.0,2024,tragédia
+Rondônia,80.0,2024,tragédia
+Rio Grande do Norte,79.0,2024,tragédia
+São Paulo,79.0,2024,tragédia
+Ceará,77.0,2024,tragédia
+Distrito Federal,76.0,2024,tragédia
+Roraima,76.0,2024,tragédia
+Alagoas,75.0,2024,tragédia
+Acre,74.0,2024,tragédia
+Rio Grande do Sul,73.0,2024,tragédia
+Goiás,73.0,2024,tragédia
+Santa Catarina,72.0,2024,tragédia
+Mato Grosso do Sul,69.0,2024,tragédia
+Paraná,62.0,2024,tragédia
+Paraná,100.0,2022,Deslizamento
+Santa Catarina,92.0,2022,Deslizamento
+Minas Gerais,42.0,2022,Deslizamento
+Rio de Janeiro,42.0,2022,Deslizamento
+Espírito Santo,34.0,2022,Deslizamento
+São Paulo,33.0,2022,Deslizamento
+Mato Grosso do Sul,32.0,2022,Deslizamento
+Rio Grande do Sul,31.0,2022,Deslizamento
+Pernambuco,31.0,2022,Deslizamento
+Rondônia,30.0,2022,Deslizamento
+Roraima,29.0,2022,Deslizamento
+Rio Grande do Norte,27.0,2022,Deslizamento
+Acre,27.0,2022,Deslizamento
+Amazonas,27.0,2022,Deslizamento
+Alagoas,26.0,2022,Deslizamento
+Tocantins,26.0,2022,Deslizamento
+Amapá,26.0,2022,Deslizamento
+Goiás,25.0,2022,Deslizamento
+Paraíba,25.0,2022,Deslizamento
+Distrito Federal,24.0,2022,Deslizamento
+Mato Grosso,24.0,2022,Deslizamento
+Bahia,24.0,2022,Deslizamento
+Maranhão,23.0,2022,Deslizamento
+Sergipe,22.0,2022,Deslizamento
+Pará,22.0,2022,Deslizamento
+Piauí,21.0,2022,Deslizamento
+Ceará,21.0,2022,Deslizamento
+Mato Grosso,100.0,2023,Emergência climática
+São Paulo,80.0,2023,Emergência climática
+Minas Gerais,60.0,2023,Emergência climática
+Paraná,20.0,2023,Emergência climática
+Rio de Janeiro,20.0,2023,Emergência climática
+Acre,,2023,Emergência climática
+Distrito Federal,,2023,Emergência climática
+Espírito Santo,,2023,Emergência climática
+Goiás,,2023,Emergência climática
+Maranhão,,2023,Emergência climática
+Ceará,,2023,Emergência climática
+Mato Grosso do Sul,,2023,Emergência climática
+Bahia,,2023,Emergência climática
+Pará,,2023,Emergência climática
+Paraíba,,2023,Emergência climática
+Pernambuco,,2023,Emergência climática
+Piauí,,2023,Emergência climática
+Amapá,,2023,Emergência climática
+Amazonas,,2023,Emergência climática
+Rio Grande do Norte,,2023,Emergência climática
+Rondônia,,2023,Emergência climática
+Roraima,,2023,Emergência climática
+Rio Grande do Sul,,2023,Emergência climática
+Santa Catarina,,2023,Emergência climática
+Sergipe,,2023,Emergência climática
+Alagoas,,2023,Emergência climática
+Tocantins,,2023,Emergência climática
+Alagoas,100.0,2022,Emergência Climática
+São Paulo,,2022,Emergência Climática
+Acre,,2022,Emergência Climática
+Tocantins,,2022,Emergência Climática
+Bahia,,2022,Emergência Climática
+Ceará,,2022,Emergência Climática
+Distrito Federal,,2022,Emergência Climática
+Espírito Santo,,2022,Emergência Climática
+Goiás,,2022,Emergência Climática
+Maranhão,,2022,Emergência Climática
+Minas Gerais,,2022,Emergência Climática
+Mato Grosso do Sul,,2022,Emergência Climática
+Mato Grosso,,2022,Emergência Climática
+Pará,,2022,Emergência Climática
+Paraíba,,2022,Emergência Climática
+Pernambuco,,2022,Emergência Climática
+Piauí,,2022,Emergência Climática
+Paraná,,2022,Emergência Climática
+Rio de Janeiro,,2022,Emergência Climática
+Rio Grande do Norte,,2022,Emergência Climática
+Rondônia,,2022,Emergência Climática
+Roraima,,2022,Emergência Climática
+Rio Grande do Sul,,2022,Emergência Climática
+Santa Catarina,,2022,Emergência Climática
+Sergipe,,2022,Emergência Climática
+Amazonas,,2022,Emergência Climática
+Amapá,,2022,Emergência Climática
+Alagoas,100.0,2022,Desabrigados
+Pernambuco,78.0,2022,Desabrigados
+Tocantins,43.0,2022,Desabrigados
+Piauí,37.0,2022,Desabrigados
+Espírito Santo,37.0,2022,Desabrigados
+Rio Grande do Norte,37.0,2022,Desabrigados
+Minas Gerais,37.0,2022,Desabrigados
+Bahia,35.0,2022,Desabrigados
+Rio de Janeiro,35.0,2022,Desabrigados
+Maranhão,32.0,2022,Desabrigados
+Ceará,29.0,2022,Desabrigados
+Amazonas,29.0,2022,Desabrigados
+Sergipe,27.0,2022,Desabrigados
+Distrito Federal,24.0,2022,Desabrigados
+Paraíba,24.0,2022,Desabrigados
+Pará,21.0,2022,Desabrigados
+Santa Catarina,18.0,2022,Desabrigados
+São Paulo,16.0,2022,Desabrigados
+Paraná,13.0,2022,Desabrigados
+Rio Grande do Sul,10.0,2022,Desabrigados
+Goiás,10.0,2022,Desabrigados
+Mato Grosso,,2022,Desabrigados
+Mato Grosso do Sul,,2022,Desabrigados
+Rondônia,,2022,Desabrigados
+Roraima,,2022,Desabrigados
+Amapá,,2022,Desabrigados
+Acre,,2022,Desabrigados
+Rio Grande do Sul,100.0,2024,desastre natural
+Santa Catarina,62.0,2024,desastre natural
+Pernambuco,60.0,2024,desastre natural
+Espírito Santo,58.0,2024,desastre natural
+Mato Grosso do Sul,58.0,2024,desastre natural
+Mato Grosso,58.0,2024,desastre natural
+Bahia,55.0,2024,desastre natural
+Goiás,55.0,2024,desastre natural
+Pará,53.0,2024,desastre natural
+Maranhão,53.0,2024,desastre natural
+Paraíba,53.0,2024,desastre natural
+Alagoas,51.0,2024,desastre natural
+São Paulo,51.0,2024,desastre natural
+Distrito Federal,51.0,2024,desastre natural
+Rio de Janeiro,51.0,2024,desastre natural
+Rio Grande do Norte,46.0,2024,desastre natural
+Amazonas,46.0,2024,desastre natural
+Sergipe,46.0,2024,desastre natural
+Minas Gerais,46.0,2024,desastre natural
+Ceará,39.0,2024,desastre natural
+Paraná,39.0,2024,desastre natural
+Rondônia,34.0,2024,desastre natural
+Piauí,25.0,2024,desastre natural
+Acre,,2024,desastre natural
+Roraima,,2024,desastre natural
+Amapá,,2024,desastre natural
+Tocantins,,2024,desastre natural
+Santa Catarina,100.0,2024,risco de desastre
+Minas Gerais,80.0,2024,risco de desastre
+Goiás,60.0,2024,risco de desastre
+Bahia,60.0,2024,risco de desastre
+São Paulo,60.0,2024,risco de desastre
+Rio Grande do Sul,40.0,2024,risco de desastre
+Rio de Janeiro,40.0,2024,risco de desastre
+Paraná,40.0,2024,risco de desastre
+Acre,,2024,risco de desastre
+Maranhão,,2024,risco de desastre
+Espírito Santo,,2024,risco de desastre
+Mato Grosso do Sul,,2024,risco de desastre
+Mato Grosso,,2024,risco de desastre
+Pará,,2024,risco de desastre
+Paraíba,,2024,risco de desastre
+Pernambuco,,2024,risco de desastre
+Piauí,,2024,risco de desastre
+Distrito Federal,,2024,risco de desastre
+Ceará,,2024,risco de desastre
+Rio Grande do Norte,,2024,risco de desastre
+Rondônia,,2024,risco de desastre
+Roraima,,2024,risco de desastre
+Amapá,,2024,risco de desastre
+Amazonas,,2024,risco de desastre
+Sergipe,,2024,risco de desastre
+Alagoas,,2024,risco de desastre
+Tocantins,,2024,risco de desastre
+Rio Grande do Sul,100.0,2023,Granizo
+Minas Gerais,79.0,2023,Granizo
+Amapá,75.0,2023,Granizo
+Santa Catarina,69.0,2023,Granizo
+Roraima,55.0,2023,Granizo
+Amazonas,48.0,2023,Granizo
+Paraná,47.0,2023,Granizo
+Espírito Santo,44.0,2023,Granizo
+Rio de Janeiro,43.0,2023,Granizo
+Rondônia,42.0,2023,Granizo
+Sergipe,41.0,2023,Granizo
+Mato Grosso do Sul,40.0,2023,Granizo
+São Paulo,40.0,2023,Granizo
+Distrito Federal,37.0,2023,Granizo
+Mato Grosso,36.0,2023,Granizo
+Alagoas,35.0,2023,Granizo
+Piauí,35.0,2023,Granizo
+Maranhão,33.0,2023,Granizo
+Bahia,33.0,2023,Granizo
+Pará,30.0,2023,Granizo
+Goiás,29.0,2023,Granizo
+Rio Grande do Norte,26.0,2023,Granizo
+Tocantins,26.0,2023,Granizo
+Ceará,25.0,2023,Granizo
+Paraíba,24.0,2023,Granizo
+Pernambuco,24.0,2023,Granizo
+Acre,22.0,2023,Granizo
+Santa Catarina,100.0,2021,deslizamento
+Piauí,100.0,2021,deslizamento
+Rio Grande do Norte,93.0,2021,deslizamento
+Pernambuco,90.0,2021,deslizamento
+Espírito Santo,88.0,2021,deslizamento
+Rio de Janeiro,87.0,2021,deslizamento
+Minas Gerais,87.0,2021,deslizamento
+Sergipe,86.0,2021,deslizamento
+Ceará,82.0,2021,deslizamento
+Bahia,82.0,2021,deslizamento
+Pará,81.0,2021,deslizamento
+Paraíba,79.0,2021,deslizamento
+Amapá,79.0,2021,deslizamento
+Amazonas,77.0,2021,deslizamento
+Alagoas,76.0,2021,deslizamento
+Rondônia,75.0,2021,deslizamento
+Maranhão,74.0,2021,deslizamento
+Paraná,67.0,2021,deslizamento
+Tocantins,66.0,2021,deslizamento
+Distrito Federal,66.0,2021,deslizamento
+Roraima,65.0,2021,deslizamento
+Mato Grosso,65.0,2021,deslizamento
+Goiás,61.0,2021,deslizamento
+São Paulo,60.0,2021,deslizamento
+Rio Grande do Sul,51.0,2021,deslizamento
+Acre,50.0,2021,deslizamento
+Mato Grosso do Sul,44.0,2021,deslizamento
+Acre,100.0,2022,Desastre Natural
+Alagoas,56.0,2022,Desastre Natural
+Amazonas,56.0,2022,Desastre Natural
+Rondônia,53.0,2022,Desastre Natural
+Santa Catarina,53.0,2022,Desastre Natural
+Espírito Santo,46.0,2022,Desastre Natural
+Goiás,46.0,2022,Desastre Natural
+Rio de Janeiro,46.0,2022,Desastre Natural
+Pará,46.0,2022,Desastre Natural
+Sergipe,46.0,2022,Desastre Natural
+Tocantins,43.0,2022,Desastre Natural
+Pernambuco,43.0,2022,Desastre Natural
+Rio Grande do Norte,43.0,2022,Desastre Natural
+Paraíba,43.0,2022,Desastre Natural
+Bahia,41.0,2022,Desastre Natural
+Mato Grosso do Sul,41.0,2022,Desastre Natural
+Distrito Federal,41.0,2022,Desastre Natural
+São Paulo,39.0,2022,Desastre Natural
+Mato Grosso,36.0,2022,Desastre Natural
+Ceará,36.0,2022,Desastre Natural
+Paraná,34.0,2022,Desastre Natural
+Minas Gerais,34.0,2022,Desastre Natural
+Maranhão,34.0,2022,Desastre Natural
+Rio Grande do Sul,34.0,2022,Desastre Natural
+Piauí,31.0,2022,Desastre Natural
+Roraima,,2022,Desastre Natural
+Amapá,,2022,Desastre Natural
+Rio de Janeiro,100.0,2022,tragedia
+Roraima,91.0,2022,tragedia
+Espírito Santo,88.0,2022,tragedia
+Acre,85.0,2022,tragedia
+Paraná,81.0,2022,tragedia
+Piauí,78.0,2022,tragedia
+Minas Gerais,77.0,2022,tragedia
+Santa Catarina,75.0,2022,tragedia
+Paraíba,74.0,2022,tragedia
+Rondônia,73.0,2022,tragedia
+Rio Grande do Norte,72.0,2022,tragedia
+Distrito Federal,71.0,2022,tragedia
+Tocantins,71.0,2022,tragedia
+Rio Grande do Sul,70.0,2022,tragedia
+Mato Grosso,70.0,2022,tragedia
+Amazonas,69.0,2022,tragedia
+São Paulo,68.0,2022,tragedia
+Pernambuco,68.0,2022,tragedia
+Mato Grosso do Sul,67.0,2022,tragedia
+Pará,67.0,2022,tragedia
+Amapá,66.0,2022,tragedia
+Sergipe,66.0,2022,tragedia
+Maranhão,65.0,2022,tragedia
+Goiás,65.0,2022,tragedia
+Alagoas,64.0,2022,tragedia
+Ceará,58.0,2022,tragedia
+Bahia,57.0,2022,tragedia
+Acre,100.0,2023,desastre natural
+Santa Catarina,52.0,2023,desastre natural
+Rondônia,50.0,2023,desastre natural
+Rio Grande do Sul,47.0,2023,desastre natural
+São Paulo,47.0,2023,desastre natural
+Paraíba,47.0,2023,desastre natural
+Ceará,45.0,2023,desastre natural
+Amazonas,45.0,2023,desastre natural
+Espírito Santo,43.0,2023,desastre natural
+Pará,43.0,2023,desastre natural
+Pernambuco,43.0,2023,desastre natural
+Rio Grande do Norte,43.0,2023,desastre natural
+Mato Grosso,41.0,2023,desastre natural
+Distrito Federal,41.0,2023,desastre natural
+Rio de Janeiro,41.0,2023,desastre natural
+Minas Gerais,41.0,2023,desastre natural
+Bahia,41.0,2023,desastre natural
+Alagoas,39.0,2023,desastre natural
+Sergipe,39.0,2023,desastre natural
+Goiás,39.0,2023,desastre natural
+Paraná,36.0,2023,desastre natural
+Maranhão,34.0,2023,desastre natural
+Piauí,34.0,2023,desastre natural
+Mato Grosso do Sul,26.0,2023,desastre natural
+Roraima,,2023,desastre natural
+Amapá,,2023,desastre natural
+Tocantins,,2023,desastre natural
+Alagoas,100.0,2022,Alerta risco
+Amazonas,81.0,2022,Alerta risco
+Rondônia,77.0,2022,Alerta risco
+Espírito Santo,72.0,2022,Alerta risco
+Rio Grande do Norte,68.0,2022,Alerta risco
+Tocantins,63.0,2022,Alerta risco
+Mato Grosso,63.0,2022,Alerta risco
+Distrito Federal,59.0,2022,Alerta risco
+Ceará,59.0,2022,Alerta risco
+Bahia,59.0,2022,Alerta risco
+Rio de Janeiro,54.0,2022,Alerta risco
+Minas Gerais,54.0,2022,Alerta risco
+Goiás,54.0,2022,Alerta risco
+Pernambuco,54.0,2022,Alerta risco
+Santa Catarina,50.0,2022,Alerta risco
+Sergipe,50.0,2022,Alerta risco
+Maranhão,50.0,2022,Alerta risco
+Rio Grande do Sul,50.0,2022,Alerta risco
+Paraíba,45.0,2022,Alerta risco
+Pará,45.0,2022,Alerta risco
+Piauí,40.0,2022,Alerta risco
+Paraná,40.0,2022,Alerta risco
+São Paulo,40.0,2022,Alerta risco
+Mato Grosso do Sul,27.0,2022,Alerta risco
+Roraima,,2022,Alerta risco
+Amapá,,2022,Alerta risco
+Acre,,2022,Alerta risco
+Acre,100.0,2021,Inundação
+Amapá,60.0,2021,Inundação
+Goiás,57.0,2021,Inundação
+Roraima,56.0,2021,Inundação
+Sergipe,48.0,2021,Inundação
+Santa Catarina,48.0,2021,Inundação
+Rondônia,47.0,2021,Inundação
+Bahia,46.0,2021,Inundação
+Amazonas,46.0,2021,Inundação
+Rio Grande do Norte,45.0,2021,Inundação
+Alagoas,45.0,2021,Inundação
+Piauí,44.0,2021,Inundação
+Distrito Federal,43.0,2021,Inundação
+Ceará,43.0,2021,Inundação
+Minas Gerais,43.0,2021,Inundação
+Espírito Santo,43.0,2021,Inundação
+Pará,42.0,2021,Inundação
+Mato Grosso,42.0,2021,Inundação
+Pernambuco,41.0,2021,Inundação
+Rio Grande do Sul,40.0,2021,Inundação
+Paraíba,40.0,2021,Inundação
+Maranhão,39.0,2021,Inundação
+Mato Grosso do Sul,35.0,2021,Inundação
+Paraná,34.0,2021,Inundação
+Rio de Janeiro,32.0,2021,Inundação
+São Paulo,32.0,2021,Inundação
+Tocantins,30.0,2021,Inundação
+Amazonas,100.0,2021,Enchente
+Santa Catarina,80.0,2021,Enchente
+Acre,60.0,2021,Enchente
+Espírito Santo,49.0,2021,Enchente
+Minas Gerais,46.0,2021,Enchente
+Tocantins,46.0,2021,Enchente
+Rondônia,45.0,2021,Enchente
+Goiás,36.0,2021,Enchente
+Roraima,35.0,2021,Enchente
+Alagoas,34.0,2021,Enchente
+Rio de Janeiro,33.0,2021,Enchente
+Rio Grande do Sul,31.0,2021,Enchente
+Bahia,31.0,2021,Enchente
+Amapá,30.0,2021,Enchente
+Mato Grosso,30.0,2021,Enchente
+São Paulo,29.0,2021,Enchente
+Mato Grosso do Sul,28.0,2021,Enchente
+Pernambuco,27.0,2021,Enchente
+Sergipe,26.0,2021,Enchente
+Pará,26.0,2021,Enchente
+Piauí,25.0,2021,Enchente
+Paraná,24.0,2021,Enchente
+Distrito Federal,24.0,2021,Enchente
+Maranhão,23.0,2021,Enchente
+Paraíba,23.0,2021,Enchente
+Rio Grande do Norte,21.0,2021,Enchente
+Ceará,19.0,2021,Enchente
+Santa Catarina,100.0,2021,Desastre Natural
+Tocantins,100.0,2021,Desastre Natural
+Rondônia,94.0,2021,Desastre Natural
+Rio Grande do Norte,89.0,2021,Desastre Natural
+Pará,89.0,2021,Desastre Natural
+Alagoas,84.0,2021,Desastre Natural
+Goiás,78.0,2021,Desastre Natural
+Bahia,78.0,2021,Desastre Natural
+Maranhão,78.0,2021,Desastre Natural
+Espírito Santo,78.0,2021,Desastre Natural
+Distrito Federal,73.0,2021,Desastre Natural
+Amazonas,73.0,2021,Desastre Natural
+São Paulo,68.0,2021,Desastre Natural
+Ceará,68.0,2021,Desastre Natural
+Paraíba,68.0,2021,Desastre Natural
+Sergipe,63.0,2021,Desastre Natural
+Piauí,63.0,2021,Desastre Natural
+Paraná,63.0,2021,Desastre Natural
+Pernambuco,63.0,2021,Desastre Natural
+Mato Grosso do Sul,57.0,2021,Desastre Natural
+Rio de Janeiro,57.0,2021,Desastre Natural
+Mato Grosso,57.0,2021,Desastre Natural
+Minas Gerais,52.0,2021,Desastre Natural
+Rio Grande do Sul,52.0,2021,Desastre Natural
+Amapá,,2021,Desastre Natural
+Roraima,,2021,Desastre Natural
+Acre,,2021,Desastre Natural
+Rio Grande do Sul,100.0,2023,desabrigados
+Amazonas,72.0,2023,desabrigados
+Maranhão,60.0,2023,desabrigados
+Espírito Santo,52.0,2023,desabrigados
+Santa Catarina,48.0,2023,desabrigados
+Alagoas,48.0,2023,desabrigados
+São Paulo,40.0,2023,desabrigados
+Paraná,36.0,2023,desabrigados
+Rio de Janeiro,36.0,2023,desabrigados
+Distrito Federal,32.0,2023,desabrigados
+Ceará,32.0,2023,desabrigados
+Bahia,32.0,2023,desabrigados
+Minas Gerais,28.0,2023,desabrigados
+Rio Grande do Norte,28.0,2023,desabrigados
+Pará,28.0,2023,desabrigados
+Paraíba,24.0,2023,desabrigados
+Mato Grosso do Sul,24.0,2023,desabrigados
+Goiás,24.0,2023,desabrigados
+Pernambuco,24.0,2023,desabrigados
+Acre,,2023,desabrigados
+Rondônia,,2023,desabrigados
+Roraima,,2023,desabrigados
+Piauí,,2023,desabrigados
+Mato Grosso,,2023,desabrigados
+Sergipe,,2023,desabrigados
+Amapá,,2023,desabrigados
+Tocantins,,2023,desabrigados
+Santa Catarina,100.0,2023,Risco de desastre
+São Paulo,50.0,2023,Risco de desastre
+Minas Gerais,25.0,2023,Risco de desastre
+Rio de Janeiro,25.0,2023,Risco de desastre
+Acre,,2023,Risco de desastre
+Ceará,,2023,Risco de desastre
+Distrito Federal,,2023,Risco de desastre
+Espírito Santo,,2023,Risco de desastre
+Goiás,,2023,Risco de desastre
+Maranhão,,2023,Risco de desastre
+Bahia,,2023,Risco de desastre
+Mato Grosso do Sul,,2023,Risco de desastre
+Mato Grosso,,2023,Risco de desastre
+Pará,,2023,Risco de desastre
+Paraíba,,2023,Risco de desastre
+Pernambuco,,2023,Risco de desastre
+Piauí,,2023,Risco de desastre
+Paraná,,2023,Risco de desastre
+Amapá,,2023,Risco de desastre
+Rio Grande do Norte,,2023,Risco de desastre
+Rondônia,,2023,Risco de desastre
+Roraima,,2023,Risco de desastre
+Rio Grande do Sul,,2023,Risco de desastre
+Amazonas,,2023,Risco de desastre
+Sergipe,,2023,Risco de desastre
+Alagoas,,2023,Risco de desastre
+Tocantins,,2023,Risco de desastre
+Amazonas,100.0,2024,estiagem
+Amapá,30.0,2024,estiagem
+Roraima,29.0,2024,estiagem
+Pará,20.0,2024,estiagem
+Acre,17.0,2024,estiagem
+Rondônia,15.0,2024,estiagem
+Distrito Federal,11.0,2024,estiagem
+Tocantins,11.0,2024,estiagem
+Mato Grosso,10.0,2024,estiagem
+Piauí,9.0,2024,estiagem
+Mato Grosso do Sul,8.0,2024,estiagem
+Rio Grande do Sul,8.0,2024,estiagem
+Maranhão,8.0,2024,estiagem
+Ceará,7.0,2024,estiagem
+Paraíba,6.0,2024,estiagem
+Paraná,6.0,2024,estiagem
+Goiás,6.0,2024,estiagem
+São Paulo,5.0,2024,estiagem
+Minas Gerais,5.0,2024,estiagem
+Santa Catarina,5.0,2024,estiagem
+Alagoas,5.0,2024,estiagem
+Rio Grande do Norte,5.0,2024,estiagem
+Bahia,5.0,2024,estiagem
+Pernambuco,4.0,2024,estiagem
+Espírito Santo,4.0,2024,estiagem
+Rio de Janeiro,4.0,2024,estiagem
+Sergipe,4.0,2024,estiagem
+Amazonas,100.0,2023,estiagem
+Rio Grande do Sul,39.0,2023,estiagem
+Amapá,24.0,2023,estiagem
+Acre,21.0,2023,estiagem
+Rondônia,16.0,2023,estiagem
+Pará,13.0,2023,estiagem
+Piauí,13.0,2023,estiagem
+Roraima,11.0,2023,estiagem
+Tocantins,10.0,2023,estiagem
+Ceará,10.0,2023,estiagem
+Distrito Federal,10.0,2023,estiagem
+Maranhão,9.0,2023,estiagem
+Mato Grosso,8.0,2023,estiagem
+Paraíba,8.0,2023,estiagem
+Santa Catarina,8.0,2023,estiagem
+Bahia,7.0,2023,estiagem
+Rio Grande do Norte,7.0,2023,estiagem
+Mato Grosso do Sul,6.0,2023,estiagem
+Sergipe,6.0,2023,estiagem
+Alagoas,6.0,2023,estiagem
+Rio de Janeiro,5.0,2023,estiagem
+São Paulo,5.0,2023,estiagem
+Paraná,5.0,2023,estiagem
+Goiás,5.0,2023,estiagem
+Minas Gerais,5.0,2023,estiagem
+Espírito Santo,4.0,2023,estiagem
+Pernambuco,4.0,2023,estiagem
+Roraima,100.0,2024,deslizamento de terra
+Amazonas,88.0,2024,deslizamento de terra
+Rio Grande do Sul,78.0,2024,deslizamento de terra
+Santa Catarina,58.0,2024,deslizamento de terra
+Bahia,56.0,2024,deslizamento de terra
+Sergipe,44.0,2024,deslizamento de terra
+Minas Gerais,42.0,2024,deslizamento de terra
+Rio de Janeiro,38.0,2024,deslizamento de terra
+Rondônia,34.0,2024,deslizamento de terra
+Piauí,34.0,2024,deslizamento de terra
+Pernambuco,34.0,2024,deslizamento de terra
+Espírito Santo,34.0,2024,deslizamento de terra
+Tocantins,34.0,2024,deslizamento de terra
+Pará,32.0,2024,deslizamento de terra
+São Paulo,32.0,2024,deslizamento de terra
+Paraíba,32.0,2024,deslizamento de terra
+Ceará,30.0,2024,deslizamento de terra
+Rio Grande do Norte,28.0,2024,deslizamento de terra
+Goiás,28.0,2024,deslizamento de terra
+Distrito Federal,26.0,2024,deslizamento de terra
+Paraná,26.0,2024,deslizamento de terra
+Maranhão,24.0,2024,deslizamento de terra
+Alagoas,22.0,2024,deslizamento de terra
+Mato Grosso,22.0,2024,deslizamento de terra
+Mato Grosso do Sul,20.0,2024,deslizamento de terra
+Amapá,,2024,deslizamento de terra
+Acre,,2024,deslizamento de terra
+Rondônia,100.0,2022,Mudanças climáticas
+Roraima,98.0,2022,Mudanças climáticas
+Tocantins,98.0,2022,Mudanças climáticas
+Amapá,97.0,2022,Mudanças climáticas
+Bahia,96.0,2022,Mudanças climáticas
+Pernambuco,95.0,2022,Mudanças climáticas
+Ceará,95.0,2022,Mudanças climáticas
+Rio Grande do Sul,94.0,2022,Mudanças climáticas
+Acre,94.0,2022,Mudanças climáticas
+Santa Catarina,93.0,2022,Mudanças climáticas
+Amazonas,91.0,2022,Mudanças climáticas
+Pará,91.0,2022,Mudanças climáticas
+Piauí,90.0,2022,Mudanças climáticas
+Alagoas,90.0,2022,Mudanças climáticas
+Paraná,90.0,2022,Mudanças climáticas
+Paraíba,88.0,2022,Mudanças climáticas
+Sergipe,88.0,2022,Mudanças climáticas
+Goiás,88.0,2022,Mudanças climáticas
+Maranhão,87.0,2022,Mudanças climáticas
+São Paulo,87.0,2022,Mudanças climáticas
+Rio Grande do Norte,86.0,2022,Mudanças climáticas
+Mato Grosso,84.0,2022,Mudanças climáticas
+Minas Gerais,83.0,2022,Mudanças climáticas
+Distrito Federal,80.0,2022,Mudanças climáticas
+Rio de Janeiro,80.0,2022,Mudanças climáticas
+Mato Grosso do Sul,79.0,2022,Mudanças climáticas
+Espírito Santo,78.0,2022,Mudanças climáticas
+Acre,100.0,2023,Alerta risco
+Distrito Federal,41.0,2023,Alerta risco
+Rondônia,39.0,2023,Alerta risco
+Alagoas,36.0,2023,Alerta risco
+Pernambuco,36.0,2023,Alerta risco
+Santa Catarina,34.0,2023,Alerta risco
+Rio de Janeiro,34.0,2023,Alerta risco
+Minas Gerais,34.0,2023,Alerta risco
+Espírito Santo,31.0,2023,Alerta risco
+Rio Grande do Sul,31.0,2023,Alerta risco
+Sergipe,29.0,2023,Alerta risco
+Bahia,29.0,2023,Alerta risco
+Piauí,29.0,2023,Alerta risco
+São Paulo,26.0,2023,Alerta risco
+Mato Grosso,26.0,2023,Alerta risco
+Mato Grosso do Sul,24.0,2023,Alerta risco
+Maranhão,24.0,2023,Alerta risco
+Goiás,24.0,2023,Alerta risco
+Amazonas,24.0,2023,Alerta risco
+Ceará,24.0,2023,Alerta risco
+Pará,21.0,2023,Alerta risco
+Paraná,21.0,2023,Alerta risco
+Rio Grande do Norte,21.0,2023,Alerta risco
+Paraíba,17.0,2023,Alerta risco
+Roraima,,2023,Alerta risco
+Amapá,,2023,Alerta risco
+Tocantins,,2023,Alerta risco
+Rondônia,100.0,2022,Mudanças climáticas
+Roraima,98.0,2022,Mudanças climáticas
+Tocantins,98.0,2022,Mudanças climáticas
+Amapá,97.0,2022,Mudanças climáticas
+Bahia,96.0,2022,Mudanças climáticas
+Pernambuco,95.0,2022,Mudanças climáticas
+Ceará,95.0,2022,Mudanças climáticas
+Rio Grande do Sul,94.0,2022,Mudanças climáticas
+Acre,94.0,2022,Mudanças climáticas
+Santa Catarina,93.0,2022,Mudanças climáticas
+Amazonas,91.0,2022,Mudanças climáticas
+Pará,91.0,2022,Mudanças climáticas
+Piauí,90.0,2022,Mudanças climáticas
+Alagoas,90.0,2022,Mudanças climáticas
+Paraná,90.0,2022,Mudanças climáticas
+Paraíba,88.0,2022,Mudanças climáticas
+Sergipe,88.0,2022,Mudanças climáticas
+Goiás,88.0,2022,Mudanças climáticas
+Maranhão,87.0,2022,Mudanças climáticas
+São Paulo,87.0,2022,Mudanças climáticas
+Rio Grande do Norte,86.0,2022,Mudanças climáticas
+Mato Grosso,84.0,2022,Mudanças climáticas
+Minas Gerais,83.0,2022,Mudanças climáticas
+Distrito Federal,80.0,2022,Mudanças climáticas
+Rio de Janeiro,80.0,2022,Mudanças climáticas
+Mato Grosso do Sul,79.0,2022,Mudanças climáticas
+Espírito Santo,78.0,2022,Mudanças climáticas
+Tocantins,100.0,2024,alerta de risco
+Rio Grande do Sul,94.0,2024,alerta de risco
+Sergipe,85.0,2024,alerta de risco
+São Paulo,79.0,2024,alerta de risco
+Rio de Janeiro,79.0,2024,alerta de risco
+Distrito Federal,79.0,2024,alerta de risco
+Espírito Santo,73.0,2024,alerta de risco
+Pernambuco,73.0,2024,alerta de risco
+Amazonas,70.0,2024,alerta de risco
+Goiás,70.0,2024,alerta de risco
+Bahia,67.0,2024,alerta de risco
+Minas Gerais,67.0,2024,alerta de risco
+Santa Catarina,67.0,2024,alerta de risco
+Alagoas,64.0,2024,alerta de risco
+Mato Grosso do Sul,64.0,2024,alerta de risco
+Rio Grande do Norte,61.0,2024,alerta de risco
+Maranhão,61.0,2024,alerta de risco
+Mato Grosso,61.0,2024,alerta de risco
+Paraná,61.0,2024,alerta de risco
+Ceará,58.0,2024,alerta de risco
+Pará,52.0,2024,alerta de risco
+Paraíba,44.0,2024,alerta de risco
+Piauí,44.0,2024,alerta de risco
+Rondônia,44.0,2024,alerta de risco
+Roraima,,2024,alerta de risco
+Amapá,,2024,alerta de risco
+Acre,,2024,alerta de risco
+Pará,100.0,2022,risco de desastre
+Santa Catarina,80.0,2022,risco de desastre
+São Paulo,40.0,2022,risco de desastre
+Bahia,40.0,2022,risco de desastre
+Ceará,40.0,2022,risco de desastre
+Paraná,20.0,2022,risco de desastre
+Minas Gerais,20.0,2022,risco de desastre
+Rio de Janeiro,20.0,2022,risco de desastre
+Acre,,2022,risco de desastre
+Maranhão,,2022,risco de desastre
+Goiás,,2022,risco de desastre
+Mato Grosso do Sul,,2022,risco de desastre
+Mato Grosso,,2022,risco de desastre
+Espírito Santo,,2022,risco de desastre
+Paraíba,,2022,risco de desastre
+Pernambuco,,2022,risco de desastre
+Piauí,,2022,risco de desastre
+Distrito Federal,,2022,risco de desastre
+Amapá,,2022,risco de desastre
+Rio Grande do Norte,,2022,risco de desastre
+Rondônia,,2022,risco de desastre
+Roraima,,2022,risco de desastre
+Rio Grande do Sul,,2022,risco de desastre
+Amazonas,,2022,risco de desastre
+Sergipe,,2022,risco de desastre
+Alagoas,,2022,risco de desastre
+Tocantins,,2022,risco de desastre
+Rio Grande do Sul,100.0,2022,Estiagem
+Amapá,28.0,2022,Estiagem
+Amazonas,23.0,2022,Estiagem
+Santa Catarina,23.0,2022,Estiagem
+Piauí,19.0,2022,Estiagem
+Tocantins,18.0,2022,Estiagem
+Acre,18.0,2022,Estiagem
+Mato Grosso,17.0,2022,Estiagem
+Maranhão,15.0,2022,Estiagem
+Pará,15.0,2022,Estiagem
+Ceará,14.0,2022,Estiagem
+Rondônia,14.0,2022,Estiagem
+Mato Grosso do Sul,14.0,2022,Estiagem
+Goiás,13.0,2022,Estiagem
+Paraná,13.0,2022,Estiagem
+Distrito Federal,13.0,2022,Estiagem
+Rio Grande do Norte,13.0,2022,Estiagem
+Paraíba,12.0,2022,Estiagem
+Espírito Santo,11.0,2022,Estiagem
+Pernambuco,11.0,2022,Estiagem
+Bahia,11.0,2022,Estiagem
+Minas Gerais,10.0,2022,Estiagem
+São Paulo,9.0,2022,Estiagem
+Alagoas,9.0,2022,Estiagem
+Rio de Janeiro,9.0,2022,Estiagem
+Sergipe,9.0,2022,Estiagem
+Roraima,,2022,Estiagem
